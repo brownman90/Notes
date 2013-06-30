@@ -1,3 +1,8 @@
 # Notes
 
 This repository serves as a storage space for my notes from class, textbooks, books, and other resources.
+
+
+## Code
+
+There may be code samples for some of my notes, these will be strewn through the notes themselves and also copied into a separate directory called ``\code``.
