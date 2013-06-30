@@ -1,0 +1,38 @@
+#  The Practice of Programming
+
+## Style
+
+### Names
+
+	* Use descriptive names for globals, short names for locals
+	* Be Consistent
+	* Use active names for functions
+	* Be accurate
+	
+### Expressions and Statements
+
+	* Indent to show structure
+	* Use the natural form for expressions
+	* Parenthesize to resolve ambiguity
+	* Break up complex expressions
+	* Be clear
+	* Be careful with side effects
+	
+### Consistency and Idioms
+
+	* Use a consistent indentation and brace style
+	* Use idioms for consistency
+	* Use else-ifs for multi-way decisions
+	
+### Function Macros
+
+	* Avoid function macros
+	* Parenthesize the macro body and arguments
+
+### Magic Numbers
+
+	* Give names to magic numbers
+	* Define numbers as constants, not macros
+	* Use character constant, not integers
+	* Use the language to calculate the size of an object
+
